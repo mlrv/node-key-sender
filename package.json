@@ -1,5 +1,5 @@
 {
-  "name": "node-key-sender-2",
+  "name": "node-keys-simulator",
   "version": "1.0.0",
   "description": "NodeJs lib to send keyboard input to the operational system.",
   "main": "key-sender.js",
