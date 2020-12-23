@@ -1,13 +1,16 @@
 {
-  "name": "node-key-sender",
-  "version": "1.0.11",
+  "name": "node-key-sender-2",
+  "version": "1.0.0",
   "description": "NodeJs lib to send keyboard input to the operational system.",
   "main": "key-sender.js",
   "scripts": {
     "setup": "npm install"
   },
-  "repository": "https://github.com/garimpeiro-it/node-key-sender",
-  "author": "Garimpeiro",
+  "repository": "https://github.com/mlrv/node-key-sender",
+  "contributors": [
+    "Garimpeiro",
+    "mlrv"
+  ],
   "keywords": [
     "nodejs",
     "key",
@@ -21,10 +24,6 @@
     "java",
     "jar"
   ],
-  "bugs": {
-    "email": "garimpeiroit@gmail.com",
-    "url": "https://github.com/garimpeiro-it/node-key-sender/issues"
-  },
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {}
